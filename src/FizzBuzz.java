@@ -17,7 +17,7 @@ public class FizzBuzz {
 
         for (Object processada : listaProcessada
         ) {
-            System.out.print(processada+", ");
+            System.out.print(processada+" ");
         }
 
 
